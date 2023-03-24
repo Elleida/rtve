@@ -1,8 +1,5 @@
-# echo-client.py
-#<port_cliente_paginacion>7777</port_cliente_paginacion>
+# clientepaginador.py
 
-
-#<path_exec_paginador>../../servicio_paginador_corrector/test/servicio_paginador_corrector.exe</path_exec_paginador>
 import socket
 import os
 import signal
